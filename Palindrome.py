@@ -14,3 +14,5 @@ def palindrome(x):     # Defining a procedure called "palindrome"
 print palindrome(a)    # a = "mom" and Palindrome of "mom" is "mom", Result will be 0
 print palindrome(b)    # b = "Son" and Palindrome od "Son" is "noS", Result will be -1
 print palindrome(c)    # c = "Dad" and Palindrome of "Dad" is "daD", Result will be -1 [Note: Python is CASE sensitive]
+
+# GAURAV PADAWE
